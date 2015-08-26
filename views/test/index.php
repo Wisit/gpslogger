@@ -1,7 +1,7 @@
 <?php
 /* @var $this yii\web\View */
-echo '$a + $b = '.($a+$b);
-echo '<br>';
+echo 'Connect DB: '.Yii::$app->db->open();
+
 ?>
 <h1>test/index</h1>
 
