@@ -4,6 +4,6 @@
  * and open the template in the editor.
  */
 $(function(){
-  alert('Hello');
+  alert('Hello world');
 })
 
